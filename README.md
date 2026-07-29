@@ -12,6 +12,13 @@ Python client for **[LinkedIn Jobs Scraper: Posting Monitor, No Cookies](https:/
 pip install apify-client
 python3 linkedin_jobs_scraper.py --token YOUR_APIFY_TOKEN --keywords "software engineer"
 ```
+### Node.js
+
+```bash
+npm install apify-client
+node linkedin_jobs_scraper.mjs --token YOUR_APIFY_TOKEN --token YOUR_APIFY_TOKEN --keywords "software engineer"
+```
+
 
 Get a free API token: [console.apify.com/sign-up](https://console.apify.com/sign-up) — then find it under **Settings → API & Integrations**.
 
