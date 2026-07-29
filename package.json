@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-jobs-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js client for the themineworks/linkedin-jobs-scraper Apify actor",
+  "main": "linkedin_jobs_scraper.mjs",
+  "scripts": {
+    "start": "node linkedin_jobs_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^1.9.2"
+  },
+  "license": "MIT"
+}
