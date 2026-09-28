@@ -5,7 +5,7 @@ Scrape LinkedIn job listings by keyword and location without login: job title, c
 **Run it on Apify:** [apify.com/themineworks/linkedin-jobs-scraper](https://apify.com/themineworks/linkedin-jobs-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/linkedin-jobs-scraper](https://themineworks.com/actors/linkedin-jobs-scraper/)
 
-**Price:** $0.0015 per job on Apify's free plan. Failed and empty results are never charged.
+**Price:** From $1.50 per 1,000 jobs on Apify's higher plans. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -115,7 +115,7 @@ https://mcp.apify.com/?tools=themineworks/linkedin-jobs-scraper
 
 ### How much does the LinkedIn Jobs Scraper cost?
 
-$0.0015 per job on Apify's free plan. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $1.50 per 1,000 jobs on Apify's higher plans. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
